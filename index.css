@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDGothic&family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDGothic&family=Dosis:wght@300&family=Titillium+Web:ital,wght@1,200&display=swap');
+*{
+    font-family: 'BIZ UDGothic', sans-serif;
+
+    font-family: 'Dosis', sans-serif;
+    color:white;
+    font-size: 20px ;
+}
+.nav{
+    color:red,
+}
+span{
+    background-color:blue;
+    font-size: 100px;
+    color:white;
+    justify-content:center;
+    align-items: center;
+}
+span:hover{
+    background-color: cyan;
+    color:black;
+    font-family: 'BIZ UDGothic', sans-serif;
+
+    font-family: 'Dosis', sans-serif;
+
+    font-family: 'Titillium Web', sans-serif;}
+    .publicaciones {
+        width: 50%;
+        min-height: 30px;
+        background-color: #fff;
+        position: relative;
+        color: #fff;
+      }
+      
+ 
+
+      .carousel-inner{
+        box-shadow: 0px 4px 50px rgba(119, 173, 204, 0.25);
+        border-radius:5px;
+        width:900px;
+        max-height: 1000px;
+        margin-left: 15%;
+        
+
+    }
+    #carusel{
+        box-shadow: 0px 4px 50px rgba(119, 173, 204, 0.25);
+        border-radius:5px;
+        width:600px;
+        max-height: 1000px;
+        margin-left: 5%;
+    }
